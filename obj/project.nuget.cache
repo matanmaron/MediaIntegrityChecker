@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/hg9L1LttW0=",
+  "success": true,
+  "projectFilePath": "/home/matanmaron/RiderProjects/MediaIntegrityChecker/MediaIntegrityChecker.csproj",
+  "expectedPackageFiles": [
+    "/home/matanmaron/.nuget/packages/microsoft.net.illink.tasks/9.0.8/microsoft.net.illink.tasks.9.0.8.nupkg.sha512",
+    "/home/matanmaron/.nuget/packages/microsoft.win32.systemevents/9.0.8/microsoft.win32.systemevents.9.0.8.nupkg.sha512",
+    "/home/matanmaron/.nuget/packages/system.drawing.common/9.0.8/system.drawing.common.9.0.8.nupkg.sha512",
+    "/home/matanmaron/.nuget/packages/microsoft.netcore.app.runtime.win-x64/9.0.8/microsoft.netcore.app.runtime.win-x64.9.0.8.nupkg.sha512",
+    "/home/matanmaron/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.8/microsoft.aspnetcore.app.ref.9.0.8.nupkg.sha512",
+    "/home/matanmaron/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/9.0.8/microsoft.aspnetcore.app.runtime.win-x64.9.0.8.nupkg.sha512",
+    "/home/matanmaron/.nuget/packages/microsoft.netcore.app.host.win-x64/9.0.8/microsoft.netcore.app.host.win-x64.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

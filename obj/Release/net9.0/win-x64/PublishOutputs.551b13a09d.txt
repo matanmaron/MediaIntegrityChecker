@@ -1,0 +1,2 @@
+/home/matanmaron/RiderProjects/MediaIntegrityChecker/bin/Release/net9.0/win-x64/publish/MediaIntegrityChecker.pdb
+/home/matanmaron/RiderProjects/MediaIntegrityChecker/bin/Release/net9.0/win-x64/publish/MediaIntegrityChecker.exe
